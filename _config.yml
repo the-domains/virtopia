@@ -1,0 +1,28 @@
+name: Virtopia
+favicon: null
+layout_spectrum: 0.1010199929587543
+typography_spectrum: 0.8614014717750251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.19228891632519662
+  lightness: 0.6995508845429868
+  saturation: 0.7331264610402286
+  rhythmicContrast: 0.5658685511443764
+purpose: []
